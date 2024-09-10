@@ -140,20 +140,6 @@ export default function Navbar() {
               Contact us
             </Link>
           </div>
-          <div className="px-2 pt-2 pb-3 space-y-1 sm:px-3 flex justify-around">
-            <Link href="#" className="text-black/50 hover:text-black">
-              <Search className="w-6 h-6" />
-            </Link>
-            <Link href="#" className="text-black/50 hover:text-black">
-              <Heart className="w-6 h-6" />
-            </Link>
-            <Link href="#" className="text-black/50 hover:text-black">
-              <ShoppingCart className="w-6 h-6" />
-            </Link>
-            <Link href="#" className="text-black/50 hover:text-black">
-              <User className="w-6 h-6" />
-            </Link>
-          </div>
         </div>
       )}
     </header>

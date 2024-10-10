@@ -50,7 +50,7 @@ export default function Footer() {
   
         {/* MavonCare Text */}
         <div className="mt-12 pt-8 flex justify-center">
-          <h1 className={`${playfair.className} text-[40px] sm:text-[60px] md:text-[120px] lg:text-[180px] xl:text-[250px] 2xl:text-[350px] leading-none text-center`}>
+          <h1 className={`${playfair.className} text-[40px] sm:text-[60px] md:text-[120px] lg:text-[180px] xl:text-[250px] 2xl:text-[300px] leading-none text-center`}>
             MavonCa<span className="text-gray-400">re</span>
           </h1>
         </div>
